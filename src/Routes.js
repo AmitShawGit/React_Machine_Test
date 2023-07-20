@@ -10,4 +10,9 @@ export const links =
     path : "/ques",
     name : "question1",
 },
+{
+    id : 3,
+    path : "/form",
+    name : "question2",
+},
 ]
