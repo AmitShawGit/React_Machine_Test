@@ -1,0 +1,25 @@
+Certainly! Here are a few practice questions that you can use to prepare for a React machine test:
+
+1. Create a React component that displays a list of items fetched from an API endpoint. Each item should be rendered as a separate component.
+
+2. Implement a form component that validates user input before submitting the form. Display error messages if the input is invalid.
+
+3. Build a React component that fetches data from an API and renders a chart using a third-party library (e.g., Chart.js or D3.js).
+
+4. Create a reusable modal component that can be opened and closed using a button or other trigger.
+
+5. Develop a React component that integrates with a third-party authentication service (e.g., Firebase) to handle user registration and login.
+
+6. Build a pagination component that allows users to navigate through a large list of items by displaying a certain number of items per page.
+
+7. Implement a search component that filters a list of items based on user input. The search should update in real-time as the user types.
+
+8. Create a component that fetches geolocation data from the browser and displays the user's current location on a map using a mapping library (e.g., Google Maps or Mapbox).
+
+9. Develop a file upload component that allows users to select and upload files to a server. Display the progress of the file upload.
+
+10. Build a responsive navbar component that collapses into a mobile-friendly menu when viewed on smaller screens.
+
+These questions cover a range of topics and concepts commonly used in React development, including API integration, form validation, data visualization, third-party library integration, authentication, pagination, search functionality, geolocation, file upload, and responsive design.
+
+Feel free to adapt these questions or modify them according to your specific needs and the skills you want to test.

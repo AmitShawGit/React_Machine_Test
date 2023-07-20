@@ -6,14 +6,14 @@ const Sidebar = () => {
   return (
     <div>
       <ul>
-        {links.map(({index,name},path)=>{
-            return(<>
-           <li key={index}> <NavLink  to={path}>{name}</NavLink></li>
-            </>)
-        })}
+        {links.map(({ id, name, path }) => (
+          <li key={id}>
+            <NavLink to={path}>{name}</NavLink>
+          </li>
+        ))}
       </ul>
     </div>
-  )
-}
+  );
+};
 
 export default Sidebar;
