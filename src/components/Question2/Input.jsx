@@ -1,10 +1,11 @@
 import React from 'react';
 
 const Input = (props) => {
+  let {label,type,placeholder} = props
   return (
     <div>
-      <label htmlFor="">{props.label}</label>
-      <input type={props.type} name="" id="" placeholder={props.placeholder}/>
+      <label htmlFor="">{label}</label><br />
+      <input type={type}  placeholder={placeholder}/> <br />
     </div>
   )
 }
