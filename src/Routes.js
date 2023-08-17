@@ -15,4 +15,9 @@ export const links =
     path : "/form",
     name : "question2",
 },
+{
+    id : 3,
+    path : "/modal",
+    name : "question4",
+},
 ]
